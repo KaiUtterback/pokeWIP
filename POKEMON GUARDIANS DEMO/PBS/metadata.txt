@@ -1,0 +1,45 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[0]
+StartMoney = 1000
+StartItemStorage = POTION
+Home = 77,11,13,2
+StorageCreator = Kai
+WildBattleBGM = Battle wild
+TrainerBattleBGM = XD 08 Normal Battle
+WildVictoryBGM = BW 127 Victory! (Trainer Battle)
+TrainerVictoryBGM = Battle victory trainer
+SurfBGM = Surfing
+BicycleBGM = Bicycle
+#-------------------------------
+[1]
+TrainerType = POKEMONTRAINER_Red
+WalkCharset = trainer_POKEMONTRAINER_Red
+RunCharset = boy_run
+CycleCharset = boy_bike
+SurfCharset = boy_surf
+DiveCharset = boy_surf
+FishCharset = boy_fish_offset
+SurfFishCharset = boy_fish_offset
+Home = 32,32,11,8
+#-------------------------------
+[2]
+TrainerType = POKEMONTRAINER_May
+WalkCharset = trainer_POKEMONTRAINER_Leaf
+RunCharset = girl_run
+CycleCharset = girl_bike
+SurfCharset = girl_surf
+DiveCharset = girl_surf
+FishCharset = girl_fish_offset
+SurfFishCharset = girl_fish_offset
+Home = 32,32,11,2
+#-------------------------------
+[3]
+TrainerType = CHAMPION
+WalkCharset = trainer_RIVAL1
+RunCharset = trainer_RIVAL1
+CycleCharset = trainer_RIVAL1
+SurfCharset = trainer_RIVAL1
+DiveCharset = trainer_RIVAL1
+FishCharset = trainer_RIVAL1
+SurfFishCharset = trainer_RIVAL1

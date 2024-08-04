@@ -1,0 +1,184 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[033]   # Desert
+Name = Desert
+Outdoor = true
+ShowArea = true
+Weather = Sandstorm,100
+Environment = Sand
+#-------------------------------
+[042]   # Westward Cave
+Name = Westward Cave
+ShowArea = true
+Environment = Cave
+#-------------------------------
+[043]   # Test Town Poke Center
+Name = Verdantia Town Pokemon Center
+#-------------------------------
+[076]   # Test Town Gym
+Name = Verdantia Town Gym
+ShowArea = true
+#-------------------------------
+[077]   # Fernwood Town
+Name = Fernwood Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[078]   # Route 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[079]   # Verdantia Town
+Name = Verdantia Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 79,42,10
+MapPosition = 1,5,13
+#-------------------------------
+[080]   # Test Town Poke Center
+Name = Emberly City Pokemon Center
+ShowArea = true
+#-------------------------------
+[082]   # Route 2
+Name = Route 2
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+#-------------------------------
+[083]   # Emberly City
+Name = Emberly City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[084]   # Test Town Mart
+Name = Emberly City Market
+ShowArea = true
+#-------------------------------
+[085]   # Test Town Gym
+Name = Emberly City Gym
+#-------------------------------
+[086]   # Test Town Gym floor 2
+Name = Max's Chamber
+#-------------------------------
+[087]   # Aurora Market
+Name = Aurora Market
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Forest
+#-------------------------------
+[088]   # Deep Woods
+Name = Deep Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,75
+Environment = Forest
+#-------------------------------
+[089]   # re Fernwood Town
+Name = Fernwood Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[090]   # Mom's House
+Name = Mom's House
+ShowArea = true
+#-------------------------------
+[092]   # Professors lab
+Name = Lab
+ShowArea = true
+#-------------------------------
+[093]   # reRoute 1
+Name = Route 1
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[094]   # reVerdantia Town
+Name = Verdantia Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[095]   # Verdantia Town Gym
+Name = Verdantia Town Gym
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[097]   # reWestward Cave
+Name = Westward Cave
+ShowArea = true
+DarkMap = true
+Environment = Cave
+#-------------------------------
+[098]   # reDesert
+Name = Desert
+Outdoor = true
+ShowArea = true
+Weather = Sandstorm,50
+Environment = Sand
+#-------------------------------
+[099]   # Desert
+Name = Desert West
+Outdoor = true
+ShowArea = true
+Environment = Sand
+#-------------------------------
+[100]   # reRoute 2
+Name = Route 2
+Outdoor = true
+Bicycle = true
+Weather = Fog,50
+Environment = Forest
+#-------------------------------
+[103]   # Flame Woods
+Name = Flame Woods
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[104]   # Route 3
+Name = Route 3
+Outdoor = true
+ShowArea = true
+#-------------------------------
+[105]   # pass to route 3
+Name = forest pass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[107]   # Slatepeak City
+Name = Slatepeak City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,50
+#-------------------------------
+[116]   # Route 4
+Name = Route 4
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,50
+#-------------------------------
+[122]   # Rocket Storage room
+Name = Rocket Storage room
+DarkMap = true
+#-------------------------------
+[123]   # Rocket Hideout 3
+Name = Rocket Hideout 3
+DarkMap = true
+#-------------------------------
+[128]   # Route 5
+Name = 
+ShowArea = true
+Bicycle = true
+Weather = Rain,50

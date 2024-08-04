@@ -1,0 +1,50 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# re Fernwood Town (89) - reRoute 1 (93)
+89,West,0,93,East,16
+# reRoute 1 (93) - Player's Room (91)
+93,212,61,91,0,0
+# reVerdantia Town (94) - reRoute 1 (93)
+94,South,13,93,North,0
+# Desert (99) - reDesert (98)
+99,East,0,98,West,3
+# reRoute 2 (100) - Desert (99)
+100,East,8,99,West,0
+# Slatepeak City (107) - Route 4 (116)
+107,East,60,116,West,0
+# Route 5 (128) - Route 4 (116)
+128,West,0,116,East,2
+# Route 3 (104) - Slatepeak City (107)
+104,North,23,107,South,0
+# pass to route 3 (105) - Route 3 (104)
+105,North,0,104,South,14
+# Route 2 (82) - pass to route 3 (105)
+82,North,6,105,South,0
+# Desert (33) - Route 2 (82)
+33,West,9,82,East,0
+# Emberly City (83) - Route 2 (82)
+83,East,7,82,West,0
+# Aurora Market (87) - Route 2 (82)
+87,North,0,82,South,3
+# Player's house (32) - Desert (33)
+32,West,0,33,East,218
+# Verdantia Town (79) - Desert (33)
+79,West,0,33,East,16
+# Fernwood Town (77) - Player's house (32)
+77,West,165,32,East,0
+# Route 1 (78) - Player's house (32)
+78,West,225,32,East,0
+# Water Shrine (111) - Player's house (32)
+111,East,0,32,West,0
+# Route 1 (78) - Fernwood Town (77)
+78,South,0,77,North,0
+# Verdantia Town (79) - Fernwood Town (77)
+79,East,37,77,West,0
+# Verdantia Town (79) - Route 1 (78)
+79,East,0,78,West,23
+# Deep Woods (88) - Route 1 (78)
+88,South,0,78,North,16
+# Water Shrine (111) - Verdantia Town (79)
+111,East,0,79,West,202
+# Flame Woods (103) - Emberly City (83)
+103,East,0,83,West,5
