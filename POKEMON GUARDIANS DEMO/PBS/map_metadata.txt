@@ -178,7 +178,44 @@ Name = Rocket Hideout 3
 DarkMap = true
 #-------------------------------
 [128]   # Route 5
-Name = 
+Name = Route 5
 ShowArea = true
 Bicycle = true
 Weather = Rain,50
+#-------------------------------
+[129]   # Moonshot Cave
+Name = Moonshot Cave
+Outdoor = true
+ShowArea = true
+DarkMap = true
+MapSize = 0,
+Environment = Cave
+#-------------------------------
+[131]   # Mountain Pass
+Name = Mountain Pass
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Environment = Rock
+#-------------------------------
+[132]   # Aetherwind City
+Name = Aetherwind City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,70
+#-------------------------------
+[138]   # Path to the Peak
+Name = Path to the Peak
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,100
+Environment = Grass
+#-------------------------------
+[140]   # Storm Peak
+Name = Storm Peak
+Outdoor = true
+ShowArea = true
+Weather = Storm,100
+Environment = Forest

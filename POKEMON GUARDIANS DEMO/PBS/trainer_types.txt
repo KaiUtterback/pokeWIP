@@ -531,3 +531,8 @@ Gender = Male
 BaseMoney = 250
 SkillLevel = 450
 #------------------------------
+[LEADER_AVA]
+Name = Gym Leader
+Gender = Male
+BaseMoney = 300
+SkillLevel = 450

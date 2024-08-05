@@ -1913,14 +1913,672 @@ Pokemon = NINETALES_1, 50
     Gender = male
     IV = 31,31,31,31,31,31
 #-------------------------------
-
-
-
-
-
-
-
-
+[LEADER_AVA, Ava]
+Items = FULLRESTORE, FULLRESTORE, MAXPOTION, MAXPOTION, REVIVE, REVIVE, FULLHEAL, FULLHEAL
+LoseText = You've bested me in the skies!
+Pokemon = TOGEKISS, 60
+    Moves = AIRSLASH, AURASPHERE, FLAMETHROWER, ROOST
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = PELIPPER, 59
+    Moves = HURRICANE, SCALD, ICEBEAM, ROOST
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = STARAPTOR, 58
+    Moves = BRAVEBIRD, CLOSECOMBAT, UTURN, ROOST
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = CROBAT, 57
+    Moves = CROSSPOISON, AIRSLASH, SLUDGEBOMB, ROOST
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = SWANNA, 56
+    Moves = HURRICANE, SCALD, ICEBEAM, ROOST
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+Pokemon = TALONFLAME, 55
+    Moves = BRAVEBIRD, FLAREBLITZ, ROOST, UTURN
+    AbilityIndex = 0
+    Gender = female
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 7]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll get you next time!
+Pokemon = ELECTIVIRE, 50
+    Moves = THUNDERPUNCH, FIREPUNCH, ICEPUNCH, EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SWAMPERT, 50
+    Moves = EARTHQUAKE, WATERFALL, ICEPUNCH, ROCKSLIDE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MUK_1, 50
+    Moves = GUNKSHOT, KNOCKOFF, FIREPUNCH, SHADOWSNEAK
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 8]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = HOUNDOOM, 50
+    Moves = FLAMETHROWER, DARKPULSE, SLUDGEBOMB, SOLARBEAM
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = LUXRAY, 50
+    Moves = THUNDERFANG, ICEFANG, FIREFANG, CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 9]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over!
+Pokemon = LIEPARD, 50
+    Moves = NIGHTSLASH, FAKEOUT, UTURN, HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR, 50
+    Moves = PSYCHIC, MOONBLAST, SHADOWBALL, THUNDERBOLT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK, 50
+    Moves = SLUDGEBOMB, DRAINPUNCH, SUCKERPUNCH, BULKUP
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 10]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll train harder next time!
+Pokemon = MANECTRIC, 50
+    Moves = THUNDERBOLT, FLAMETHROWER, SNARL, VOLTSWITCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SALAZZLE, 50
+    Moves = SLUDGEBOMB, FLAMETHROWER, DRAGONPULSE, NASTYPLOT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 11]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I need more training!
+Pokemon = EXCADRILL, 50
+    Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC, 50
+    Moves = SCALD, ICEBEAM, DRAGONPULSE, RECOVER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MUK_1, 50
+    Moves = GUNKSHOT, KNOCKOFF, FIREPUNCH, POISONJAB
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 12]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = BISHARP, 50
+    Moves = IRONHEAD, NIGHTSLASH, SWORDSDANCE, SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = EXCADRILL, 50
+    Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON, 50
+    Moves = IRONTAIL, STONEEDGE, DRAGONCLAW, THUNDERWAVE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 13]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll get you next time!
+Pokemon = JOLTEON, 50
+    Moves = THUNDERBOLT, SHADOWBALL, VOLTSWITCH, HIDDENPOWER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES, 50
+    Moves = FLAMETHROWER, SOLARBEAM, NASTYPLOT, DARKPULSE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = INFERNAPE, 50
+    Moves = FLAREBLITZ, CLOSECOMBAT, THUNDERPUNCH, STONEEDGE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 14]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = SWELLOW, 50
+    Moves = BRAVEBIRD, FACADE, QUICKATTACK, UTURN
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE, 50
+    Moves = EARTHQUAKE, CRUNCH, STONEEDGE, DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SCIZOR, 50
+    Moves = BULLETPUNCH, XSCISSOR, SWORDSDANCE, ROOST
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 15]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over!
+Pokemon = HAXORUS, 50
+    Moves = DRAGONCLAW, EARTHQUAKE, SWORDSDANCE, IRONTAIL
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = AEGISLASH, 50
+    Moves = SHADOWSNEAK, SACREDSWORD, KINGSSHIELD, IRONHEAD
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGAPULT, 50
+    Moves = DRAGONDARTS, SHADOWBALL, UTURN, FLAMETHROWER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 16]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll train harder next time!
+Pokemon = METAGROSS, 50
+    Moves = METEORMASH, BULLETPUNCH, ZENHEADBUTT, EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE, 50
+    Moves = DRAGONCLAW, FLY, EARTHQUAKE, DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON, 50
+    Moves = DRAGONPULSE, DARKPULSE, FLAMETHROWER, SURF
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 17]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SCIZOR, 50
+    Moves = BULLETPUNCH, XSCISSOR, SWORDSDANCE, ROOST
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE, 50
+    Moves = EARTHQUAKE, CRUNCH, STONEEDGE, DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 18]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over yet!
+Pokemon = MACHAMP, 50
+    Moves = DYNAMICPUNCH, STONEEDGE, BULKUP, KNOCKOFF
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX, 50
+    Moves = BODYSLAM, EARTHQUAKE, CRUNCH, REST
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR, 50
+    Moves = SLUDGEBOMB, SHADOWBALL, FOCUSBLAST, THUNDERBOLT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 19]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll get you next time!
+Pokemon = ELECTIVIRE, 50
+    Moves = THUNDERPUNCH, FIREPUNCH, ICEPUNCH, EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SWAMPERT, 50
+    Moves = EARTHQUAKE, WATERFALL, ICEPUNCH, ROCKSLIDE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MUK_1, 50
+    Moves = GUNKSHOT, KNOCKOFF, FIREPUNCH, SHADOWSNEAK
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 20]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = HOUNDOOM, 50
+    Moves = FLAMETHROWER, DARKPULSE, SLUDGEBOMB, SOLARBEAM
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = LUXRAY, 50
+    Moves = THUNDERFANG, ICEFANG, FIREFANG, CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 21]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over!
+Pokemon = LIEPARD, 50
+    Moves = NIGHTSLASH, FAKEOUT, UTURN, HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR, 50
+    Moves = PSYCHIC, MOONBLAST, SHADOWBALL, THUNDERBOLT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK, 50
+    Moves = SLUDGEBOMB, DRAINPUNCH, SUCKERPUNCH, BULKUP
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 22]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll train harder next time!
+Pokemon = MANECTRIC, 50
+    Moves = THUNDERBOLT, FLAMETHROWER, SNARL, VOLTSWITCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SALAZZLE, 50
+    Moves = SLUDGEBOMB, FLAMETHROWER, DRAGONPULSE, NASTYPLOT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 23]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I need more training!
+Pokemon = EXCADRILL, 50
+    Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC, 50
+    Moves = SCALD, ICEBEAM, DRAGONPULSE, RECOVER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MUK_1, 50
+    Moves = GUNKSHOT, KNOCKOFF, FIREPUNCH, POISONJAB
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 24]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = BISHARP, 50
+    Moves = IRONHEAD, NIGHTSLASH, SWORDSDANCE, SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = EXCADRILL, 50
+    Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON, 50
+    Moves = IRONTAIL, STONEEDGE, DRAGONCLAW, THUNDERWAVE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 25]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll get you next time!
+Pokemon = JOLTEON, 50
+    Moves = THUNDERBOLT, SHADOWBALL, VOLTSWITCH, HIDDENPOWER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES, 50
+    Moves = FLAMETHROWER, SOLARBEAM, NASTYPLOT, DARKPULSE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = INFERNAPE, 50
+    Moves = FLAREBLITZ, CLOSECOMBAT, THUNDERPUNCH, STONEEDGE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 26]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = SWELLOW, 50
+    Moves = BRAVEBIRD, FACADE, QUICKATTACK, UTURN
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE, 50
+    Moves = EARTHQUAKE, CRUNCH, STONEEDGE, DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SCIZOR, 50
+    Moves = BULLETPUNCH, XSCISSOR, SWORDSDANCE, ROOST
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 27]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over!
+Pokemon = HAXORUS, 50
+    Moves = DRAGONCLAW, EARTHQUAKE, SWORDSDANCE, IRONTAIL
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = AEGISLASH, 50
+    Moves = SHADOWSNEAK, SACREDSWORD, KINGSSHIELD, IRONHEAD
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGAPULT, 50
+    Moves = DRAGONDARTS, SHADOWBALL, UTURN, FLAMETHROWER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 28]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll train harder next time!
+Pokemon = METAGROSS, 50
+    Moves = METEORMASH, BULLETPUNCH, ZENHEADBUTT, EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = DRAGONITE, 50
+    Moves = DRAGONCLAW, FLY, EARTHQUAKE, DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = HYDREIGON, 50
+    Moves = DRAGONPULSE, DARKPULSE, FLAMETHROWER, SURF
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt,29]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SCIZOR, 50
+    Moves = BULLETPUNCH, XSCISSOR, SWORDSDANCE, ROOST
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = KROOKODILE, 50
+    Moves = EARTHQUAKE, CRUNCH, STONEEDGE, DRAGONDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 30]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over yet!
+Pokemon = MACHAMP, 50
+    Moves = DYNAMICPUNCH, STONEEDGE, BULKUP, KNOCKOFF
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SNORLAX, 50
+    Moves = BODYSLAM, EARTHQUAKE, CRUNCH, REST
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GENGAR, 50
+    Moves = SLUDGEBOMB, SHADOWBALL, FOCUSBLAST, THUNDERBOLT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 31]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll get you next time!
+Pokemon = ELECTIVIRE, 50
+    Moves = THUNDERPUNCH, FIREPUNCH, ICEPUNCH, EARTHQUAKE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SWAMPERT, 50
+    Moves = EARTHQUAKE, WATERFALL, ICEPUNCH, ROCKSLIDE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MUK_1, 50
+    Moves = GUNKSHOT, KNOCKOFF, FIREPUNCH, SHADOWSNEAK
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 32]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = HOUNDOOM, 50
+    Moves = FLAMETHROWER, DARKPULSE, SLUDGEBOMB, SOLARBEAM
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = LUXRAY, 50
+    Moves = THUNDERFANG, ICEFANG, FIREFANG, CRUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 33]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = This isn't over!
+Pokemon = LIEPARD, 50
+    Moves = NIGHTSLASH, FAKEOUT, UTURN, HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GARDEVOIR, 50
+    Moves = PSYCHIC, MOONBLAST, SHADOWBALL, THUNDERBOLT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = TOXICROAK, 50
+    Moves = SLUDGEBOMB, DRAINPUNCH, SUCKERPUNCH, BULKUP
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 34]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll train harder next time!
+Pokemon = MANECTRIC, 50
+    Moves = THUNDERBOLT, FLAMETHROWER, SNARL, VOLTSWITCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = SALAZZLE, 50
+    Moves = SLUDGEBOMB, FLAMETHROWER, DRAGONPULSE, NASTYPLOT
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = GLISCOR, 50
+    Moves = EARTHQUAKE, NIGHTSLASH, ACROBATICS, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 35]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I need more training!
+Pokemon = EXCADRILL, 50
+    Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MILOTIC, 50
+    Moves = SCALD, ICEBEAM, DRAGONPULSE, RECOVER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = MUK_1, 50
+    Moves = GUNKSHOT, KNOCKOFF, FIREPUNCH, POISONJAB
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 36]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = How could I lose?!
+Pokemon = BISHARP, 50
+    Moves = IRONHEAD, NIGHTSLASH, SWORDSDANCE, SUCKERPUNCH
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = EXCADRILL, 50
+    Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = AGGRON, 50
+    Moves = IRONTAIL, STONEEDGE, DRAGONCLAW, THUNDERWAVE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_M, Grunt, 37]
+Items = SUPERPOTION, HYPERPOTION
+LoseText = I'll get you next time!
+Pokemon = JOLTEON, 50
+    Moves = THUNDERBOLT, SHADOWBALL, VOLTSWITCH, HIDDENPOWER
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = NINETALES, 50
+    Moves = FLAMETHROWER, SOLARBEAM, NASTYPLOT, DARKPULSE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+Pokemon = INFERNAPE, 50
+    Moves = FLAREBLITZ, CLOSECOMBAT, THUNDERPUNCH, STONEEDGE
+    AbilityIndex = 0
+    Gender = male
+    IV = 31,31,31,31,31,31
+#-------------------------------
+[GRUNT_LEADER, Uzu, 1]
+LoseText = You may have defeated me, but you haven't won yet!
+Pokemon = GARCHOMP, 60
+Moves = DRAGONCLAW, EARTHQUAKE, FIREBLAST, SWORDSDANCE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LEFTOVERS
+Shiny = false
+Ball = ULTRABALL
+Pokemon = HYDREIGON, 58
+Moves = DARKPULSE, DRAGONPULSE, FLASHCANNON, FIREBLAST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LIFEORB
+Shiny = false
+Ball = ULTRABALL
+Pokemon = SALAMENCE, 57
+Moves = DRAGONCLAW, FLY, EARTHQUAKE, FLAMETHROWER
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = CHOICEBAND
+Shiny = false
+Ball = ULTRABALL
+Pokemon = TYRANITAR, 56
+Moves = STONEEDGE, CRUNCH, EARTHQUAKE, DRAGONTAIL
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = ASSAULTVEST
+Shiny = false
+Ball = ULTRABALL
+Pokemon = METAGROSS, 55
+Moves = METEORMASH, ZENHEADBUTT, EARTHQUAKE, BULLETPUNCH
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = CHOICESCARF
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
 
 
 
