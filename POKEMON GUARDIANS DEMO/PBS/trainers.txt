@@ -2579,6 +2579,376 @@ Item = CHOICESCARF
 Shiny = false
 Ball = ULTRABALL
 #-------------------------------
+[RIVAL1, Alex, 7]
+LoseText = I can't believe I lost again!
+Pokemon = HAXORUS, 68
+Moves = DRAGONCLAW, EARTHQUAKE, IRONTAIL, SWORDSDANCE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = BLASTOISE, 68
+Moves = HYDROPUMP, ICEBEAM, DARKPULSE, DRAGONDANCE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LEFTOVERS
+Shiny = false
+Ball = ULTRABALL
+Pokemon = AEGISLASH, 67
+Moves = SACREDSWORD, SHADOWSNEAK, IRONHEAD, KINGSSHIELD
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LEFTOVERS
+Shiny = false
+Ball = ULTRABALL
+Pokemon = EXCADRILL, 67
+Moves = EARTHQUAKE, IRONHEAD, ROCKSLIDE, SWORDSDANCE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = GRENINJA, 67
+Moves = HYDROPUMP, DARKPULSE, ICEBEAM, EXTRASENSORY
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LIFEORB
+Shiny = false
+Ball = ULTRABALL
+Pokemon = GALVANTULA, 67
+Moves = THUNDER, BUGBUZZ, ENERGYBALL, STICKYWEB
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = FOCUSSASH
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[COOLTRAINER_M, Max]
+LoseText = You're good, but not good enough!
+Pokemon = ARCANINE, 50
+Moves = FLAREBLITZ, EXTREMESPEED, WILDCHARGE, CLOSECOMBAT
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LIFEORB
+Shiny = false
+Ball = ULTRABALL
+Pokemon = LAPRAS, 48
+Moves = SURF, ICEBEAM, THUNDERBOLT, PSYCHIC
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LEFTOVERS
+Shiny = false
+Ball = ULTRABALL
+Pokemon = ELECTIVIRE, 50
+Moves = THUNDERPUNCH, FIREPUNCH, ICEPUNCH, EARTHQUAKE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[COOLTRAINER_M, Jake]
+LoseText = Well, you got me this time.
+Pokemon = ALAKAZAM, 52
+Moves = PSYCHIC, SHADOWBALL, FOCUSBLAST, CALMMIND
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = SCIZOR, 50
+Moves = BULLETPUNCH, XSCISSOR, SWORDSDANCE, ROOST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LEFTOVERS
+Shiny = false
+Ball = ULTRABALL
+Pokemon = SWAMPERT, 50
+Moves = EARTHQUAKE, WATERFALL, ICEPUNCH, PROTECT
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[COOLTRAINER_M, Leo]
+LoseText = You're tougher than you look!
+Pokemon = GYARADOS, 52
+Moves = WATERFALL, ICEFANG, EARTHQUAKE, DRAGONDANCE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LEFTOVERS
+Shiny = false
+Ball = ULTRABALL
+Pokemon = TYRANITAR, 52
+Moves = STONEEDGE, CRUNCH, EARTHQUAKE, FIREPUNCH
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = CHOICESCARF
+Shiny = false
+Ball = ULTRABALL
+Pokemon = ESPEON, 50
+Moves = PSYCHIC, DAZZLINGGLEAM, SHADOWBALL, MORNINGSUN
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Item = LIGHTCLAY
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[HIKER, John]
+LoseText = My boulders weren't enough!
+Pokemon = GOLEM, 45
+Moves = EARTHQUAKE, STONEEDGE, EXPLOSION, STEALTHROCK
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = ONIX, 43
+Moves = ROCKSLIDE, EARTHQUAKE, DRAGONBREATH, SANDSTORM
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[HIKER, Mike]
+LoseText = You've outclimbed me!
+Pokemon = RHYDON, 47
+Moves = EARTHQUAKE, MEGAHORN, ROCKBLAST, HORNDRILL
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = MACHAMP, 46
+Moves = DYNAMICPUNCH, STONEEDGE, BULLETPUNCH, KNOCKOFF
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[HIKER, Dave]
+LoseText = You bested my mountain might!
+Pokemon = AGGRON, 49
+Moves = HEAVYSLAM, STONEEDGE, EARTHQUAKE, HEADSMASH
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = CAMERUPT, 48
+Moves = ERUPTION, EARTHPOWER, LAVAPLUME, ROCKSLIDE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[BIRDKEEPER, Sam]
+LoseText = My birds couldn't take flight!
+Pokemon = PIDGEOT, 44
+Moves = HURRICANE, QUICKATTACK, HEATWAVE, ROOST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = FEAROW, 43
+Moves = DRILLPECK, DOUBLEEDGE, UTURN, PURSUIT
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[BIRDKEEPER, Tony]
+LoseText = Grounded again...
+Pokemon = SWELLOW, 45
+Moves = BRAVEBIRD, DOUBLEEDGE, QUICKATTACK, ROOST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = STARAPTOR, 44
+Moves = CLOSECOMBAT, BRAVEBIRD, UTURN, QUICKATTACK
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[BIRDKEEPER, Alex]
+LoseText = My feathers are ruffled!
+Pokemon = NOCTOWL, 46
+Moves = AIRSLASH, PSYCHIC, MOONBLAST, ROOST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = SWANNA, 45
+Moves = HURRICANE, SURF, ICEBEAM, ROOST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[BIRDKEEPER, Jack]
+LoseText = You've clipped my wings!
+Pokemon = TALONFLAME, 47
+Moves = FLAREBLITZ, BRAVEBIRD, ROOST, SWORDSDANCE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = TOUCANNON, 46
+Moves = BEAKBLAST, BULLETSEED, ROCKBLAST, ROOST
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[YOUNGSTER, Joey]
+LoseText = I need to train more!
+Pokemon = RATTATA, 50
+Moves = QUICKATTACK, HYPERFANG, CRUNCH, FOCUSENERGY
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = POKEBALL
+Pokemon = ZUBAT, 50
+Moves = AIRSLASH, SLUDGEBOMB, CONFUSERAY, UTURN
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = POKEBALL
+#-------------------------------
+[YOUNGSTER, Ben]
+LoseText = Darn it!
+Pokemon = SANDSLASH, 52
+Moves = EARTHQUAKE, ROCKSLIDE, SWORDSDANCE, SLASH
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = POKEBALL
+Pokemon = NIDOKING, 52
+Moves = EARTHPOWER, SLUDGEBOMB, ICEBEAM, THUNDERBOLT
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = POKEBALL
+#-------------------------------
+[YOUNGSTER, Timmy]
+LoseText = I have to tell my mom!
+Pokemon = ARBOK, 51
+Moves = GUNKSHOT, CRUNCH, EARTHQUAKE, GLARE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = POKEBALL
+Pokemon = DUGTRIO, 51
+Moves = EARTHQUAKE, ROCKSLIDE, SANDSTORM, NIGHTSLASH
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = POKEBALL
+#-------------------------------
+[RUINMANIAC, Cyrus]
+LoseText = My discoveries weren't enough...
+Pokemon = CLAYDOL, 52
+Moves = EARTHPOWER, PSYCHIC, RAPIDSPIN, SHADOWBALL
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = CRADILY, 53
+Moves = GIGADRAIN, ANCIENTPOWER, EARTHQUAKE, CONFUSERAY
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[RUINMANIAC, Orion]
+LoseText = How could I lose with such ancient power?
+Pokemon = KABUTOPS, 54
+Moves = WATERFALL, ROCKSLIDE, NIGHTSLASH, XSCISSOR
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = ARMALDO, 54
+Moves = XSCISSOR, ROCKBLAST, EARTHQUAKE, AERIALACE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[RUINMANIAC, Darius]
+LoseText = My treasures failed me...
+Pokemon = AERODACTYL, 55
+Moves = ROCKSLIDE, EARTHQUAKE, DRAGONCLAW, AERIALACE
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = OMASTAR, 54
+Moves = HYDROPUMP, ANCIENTPOWER, ICEBEAM, EARTHPOWER
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+[RUINMANIAC, Silas]
+LoseText = The ruins hold more secrets...
+Pokemon = BASTIODON, 53
+Moves = IRONHEAD, ANCIENTPOWER, EARTHQUAKE, STEALTHROCK
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+Pokemon = RELICANTH, 53
+Moves = HEADSMASH, WATERFALL, EARTHQUAKE, YAWN
+AbilityIndex = 0
+Gender = male
+IV = 31,31,31,31,31,31
+Shiny = false
+Ball = ULTRABALL
+#-------------------------------
+
+
+
+
+
 
 
 

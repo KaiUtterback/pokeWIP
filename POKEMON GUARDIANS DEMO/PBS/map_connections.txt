@@ -10,18 +10,10 @@
 99,East,0,98,West,3
 # reRoute 2 (100) - Desert (99)
 100,East,8,99,West,0
-# Aetherwind City (132) - Path to the Peak (138)
-132,North,20,138,South,0
-# Storm Peak (140) - Path to the Peak (138)
-140,South,9,138,North,0
-# Mountain Pass (131) - Aetherwind City (132)
-131,North,0,132,South,10
-# Route 5 (128) - Mountain Pass (131)
-128,North,130,131,South,0
-# Route 4 (116) - Route 5 (128)
-116,East,2,128,West,0
 # Slatepeak City (107) - Route 4 (116)
 107,East,60,116,West,0
+# Route 5 (128) - Route 4 (116)
+128,West,0,116,East,2
 # Route 3 (104) - Slatepeak City (107)
 104,North,23,107,South,0
 # pass to route 3 (105) - Route 3 (104)
@@ -56,3 +48,19 @@
 111,East,0,79,West,202
 # Flame Woods (103) - Emberly City (83)
 103,East,0,83,West,5
+# Mountain Pass (131) - Route 5 (128)
+131,South,0,128,North,130
+# Aetherwind City (132) - Mountain Pass (131)
+132,South,10,131,North,0
+# Route 6 (143) - Mountain Pass (131)
+143,South,0,131,North,60
+# Path to the Peak (138) - Aetherwind City (132)
+138,South,0,132,North,20
+# Route 6 (143) - Aetherwind City (132)
+143,West,5,132,East,0
+# Storm Peak (140) - Path to the Peak (138)
+140,South,9,138,North,0
+# Route 6 (143) - Path to the Peak (138)
+143,West,0,138,East,70
+# Route 7 (144) - Route 6 (143)
+144,West,0,143,East,7
