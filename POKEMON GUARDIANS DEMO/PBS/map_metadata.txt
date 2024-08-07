@@ -219,3 +219,28 @@ Outdoor = true
 ShowArea = true
 Weather = Storm,100
 Environment = Forest
+#-------------------------------
+[143]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+#-------------------------------
+[144]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,70
+#-------------------------------
+[145]   # Thundercliff cave
+Name = Thundercliff Cave
+Outdoor = true
+ShowArea = true
+Weather = Fog,100
+#-------------------------------
+[146]   # Thundercliff Town
+Name = Thundercliff Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
